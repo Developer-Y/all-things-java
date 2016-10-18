@@ -204,3 +204,5 @@
   * [Core Servlets and JavaServer Pages, Second Edition (Online)](http://pdf.coreservlets.com/)
   * [Introduction to Programming Using Java, Sixth Edition (Online)](https://www.mkyong.com/featured/top-5-free-java-ebooks/)
   * Java Puzzlers : Traps, Pitfalls, And Corner Cases
+  * [Maven by Example (Online)](http://books.sonatype.com/mvnex-book/reference/index.html) ([Download link](http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/))
+  * [Maven: The Complete Reference (Online)](http://books.sonatype.com/mvnref-book/reference/index.html)  ([Download link](http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/))
