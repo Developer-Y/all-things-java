@@ -18,6 +18,11 @@
 * **Collections**
   * [HashTable vs HashMap vs Concurrent HashMap all kinds of Map implementations](https://www.youtube.com/watch?v=APL28XpFP0c)
   * [An Overview of the Java Collections Framework](https://www.youtube.com/watch?v=-ZPygkxkRUQ)
+  * [Collections Refueled](https://www.youtube.com/watch?v=LgR9ByD1dEw)
+  * [Collections in Java - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ)
+  * [Collection Framework Video Tutorials by Durga Sir](https://www.youtube.com/playlist?list=PLb-2YTj1124BWHoaQzA5dckUhWGYkc4yd)
+  * [Java Collections Framework](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
+  * [Field Guide to Java Collections](https://www.youtube.com/watch?v=PZl_0URd8Qo)
 
 * **Concurrency**  
   * [Overview of Java Threads - Douglas Schmidt](https://www.youtube.com/watch?v=1YwVH-nhDtc)
@@ -39,6 +44,19 @@
   * [Combining Collections and Concurrency](https://www.youtube.com/watch?v=1NeZys7KEvc)
   * [Flavors of Concurrency in Java](https://www.youtube.com/watch?v=UoKebad9UOk)
   * [The Quest for Low-latency with Concurrent Java](https://www.infoq.com/presentations/low-latency-concurrrent-java-8)
+  * [Engineering Concurrent Library Components - Doug Lea](https://www.youtube.com/watch?v=sq0MX3fHkro)
+  * [GOTO 2014 • New Concurrency Utilities in Java 8 • Angelika Langer](https://www.youtube.com/watch?v=Q_0_1mKTlnY)
+  * [The Secrets of Concurrency, Heinz Kabutz](https://www.youtube.com/watch?v=upVBg3oiN_Y)
+  * [ITT 2015 - Heinz Kabutz - The Multi-threading, Non Blocking IO](https://www.youtube.com/watch?v=uKc0Gx_lPsg)
+  * [Arno Haase. Java Concurrency in Practice](https://www.youtube.com/watch?v=cr7x634xIrE)
+  * [Java Multithreading With Executors Course Lectures 1-12](https://www.youtube.com/watch?v=B037zeHUVH8)
+  * [Comparing different concurrency models on the JVM](https://www.youtube.com/watch?v=QFB_3uUGzR4)
+  * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors. by Lutz Huehnken](https://www.youtube.com/watch?v=EMv_8dxSqdE)
+  * [Philly ETE 2016 #35 - From Concurrent to Parallel - Brian Goetz](https://www.youtube.com/watch?v=QicNusGdz4g)
+  * [Why There's No Future in Java Futures](https://www.youtube.com/watch?v=L-rKLSdPEMs)
+  * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
+  * [From Concurrent to Parallel](https://www.youtube.com/watch?v=NsDE7E8sIdQ)
+  * [Philly ETE 2016 #35 - From Concurrent to Parallel - Brian Goetz](https://www.youtube.com/watch?v=QicNusGdz4g)
 
 * **Generics**
   * [Java Generics Tutorial](https://www.youtube.com/watch?v=9tHLV0u87G4)
@@ -50,6 +68,11 @@
   * [Programming with Lambda Expressions in Java](https://www.youtube.com/watch?v=Gsfmfeb2XW8)
   * [Programming with Streams in Java 8](https://www.youtube.com/watch?v=rVfRDLIw_Zw)
   * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
+  * [Learn Java 8: Lambdas and Functional Programming](https://www.youtube.com/watch?v=zolbIZS4SRQ)
+  * [Peter Lawrey - Low Latency Code in Java 8](https://www.youtube.com/watch?v=t49bfPLp0B0)
+  * [Java 8 best practices by Stephen Colebourne](https://www.youtube.com/watch?v=wOks4LW6I24)
+  * [Lambda: A Peek Under the Hood](https://www.youtube.com/watch?v=f9UvX2xhxa8)
+  * [GOTO 2013 • Lambdas in Java: A Peek under the Hood • Brian Goetz](https://www.youtube.com/watch?v=MLksirK9nnE)
 
 * **Web Services**
   * [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
@@ -62,6 +85,7 @@
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
   * [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
   * [Design Patterns Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGTBBDSYP0gTnErhaTVVKI2)
+  * [Core Software Design Principles](https://www.youtube.com/watch?v=XgoldEoK-Rw)
 
 * **Java Frameworks (Spring/Hibernate etc) & JDBC**
   * [Spring by Mr.Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmpGjkPiaLZsVw6JYw18vMT)
@@ -86,6 +110,21 @@
   * [Understanding Java Garbage Collection and What You Can Do about It](https://www.infoq.com/presentations/Understanding-Java-Garbage-Collection)
   * [Understanding Java Garbage Collection and what you can do about it - Youtube](https://www.youtube.com/watch?v=we_enrM7TSY)
   * [Deep Dive into G1 Garbage Collector](https://www.infoq.com/presentations/java-g1)
+  * [G1 Garbage Collector Details and Tuning by Simone Bordet](https://www.youtube.com/watch?v=Gee7QfoY8ys)
+  * [G1 Garbage Collector - Big Heaps and Low Pauses](https://www.youtube.com/watch?v=xqrEW07M3kk)
+  * [Simone Bordet - G1 Garbage Collector: details and tuning](https://www.youtube.com/watch?v=E2eSSR1a3us)
+  * [G1 Garbage Collector Performance Tuning](https://www.youtube.com/watch?v=bhVzCIk3-Q4)
+  * [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8)
+  * [CON5823 Moving to G1 GC](https://www.youtube.com/watch?v=3Xrd9iSWTbI)
+  * [The Fundamentals of Garbage Collector Performance](https://www.youtube.com/watch?v=D6jqVS5JFpM)
+  * [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
+  
+* **JMS**
+  * [Asynchronous communication with JMS(Java Messaging Service) Part 1](https://www.youtube.com/watch?v=NAdrThcQkwQ)
+  * [Spring Framework JMS Integartion Tutorial](https://www.youtube.com/watch?v=9WGSVnhlOHE)
+  * [Introduction to JMS](https://www.youtube.com/watch?v=WH0ZaGwfmz4)
+  * [Java Message Services | JMS | JNDI | JMS API | Java Online Training](https://www.youtube.com/watch?v=UYbFdlEr3YM)
+  * [JMS Spring Tutorial](https://www.youtube.com/watch?v=MhqECZAJyPE)
 
 * **Advanced Topics (JVM Tuning/JMX/ Classloaders/Reflection etc)**
   * [The Fundamentals of JVM Tuning](https://www.youtube.com/watch?v=4joWshvFJnw)
@@ -117,6 +156,11 @@
   * [Package your Java EE application using Docker and Kubernetes](https://www.youtube.com/watch?v=OEflMTJUV4c)
   * [Diagnosing Web Application OutOfMemoryErrors](https://www.infoq.com/presentations/Diagnosing-Memory-Leaks)
   * [An Overview of Guava: Google Core Libraries for Java](https://www.infoq.com/presentations/Guava)
+  * [Ask the JDK Architects](https://www.youtube.com/watch?v=ztoT5wXxJ5s)
+  * [Ask the JDK Architects, Part 1](https://www.youtube.com/watch?v=vsPwuSRsv-k)
+  * [Ask the JDK Architects, Part 2](https://www.youtube.com/watch?v=gskTI0H8dBc)
+  * [Philly ETE 2014 #50 - Java: Past, Present, and Future - Brian Goetz](https://www.youtube.com/watch?v=Dq2WQuWVrgQ)
+  * [GOTO 2015 • Move Deliberately and Don't Break Anything • Brian Goetz](https://www.youtube.com/watch?v=ibYrHlwCKB4)
 
 
 ## Web Links
@@ -127,6 +171,8 @@
   * [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
   * [Java Revisited](http://javarevisited.blogspot.in/)
   * [Jenkov Tutorials](http://tutorials.jenkov.com/)
+  * http://www.mkyong.com/
+  * http://www.vogella.com/tutorials/java.html
   
 * **Topic-wise**
   * [Java Collections Tutorial - Jenkov](http://tutorials.jenkov.com/java-collections/index.html)
@@ -141,11 +187,20 @@
   
 * **Books**
   * Head First Java, 2nd Edition
+  * Head First Design Patterns
+  * Head First Servlets and JSP
   * Effective Java (2nd Edition) 2nd Edition
   * SCJP Sun Certified Programmer for Java 6 Exam - Kathy Sierra, Bert Bates
+  * Java Performance: Charlie Hunt, Binu John
+  * Java Concurrency in Practice
+  * The Art of Multiprocessor Programming, Revised Reprint,  Nir Shavit & Maurice Herlihy
+  * Spring in Action
+  * Pro Spring 3, Apress
+  * Expert Spring MVC and Web Flow by Seth Ladd, Darren Davison, Steven Devijver, Colin Yates
   * [Think Java: How to Think Like a Computer Scientist (Online)](www.greenteapress.com/thinkapjava/thinkapjava.pdf)
   * [The Java Language Specification (Online)](http://docs.oracle.com/javase/specs/)
   * [Thinking in Java, 3rd Edition (Online)](http://www.mindviewinc.com/Books/downloads.html)
   * [The Java Tutorial (Online)](http://docs.oracle.com/javase/tutorial/)
   * [Core Servlets and JavaServer Pages, Second Edition (Online)](http://pdf.coreservlets.com/)
   * [Introduction to Programming Using Java, Sixth Edition (Online)](https://www.mkyong.com/featured/top-5-free-java-ebooks/)
+  * Java Puzzlers : Traps, Pitfalls, And Corner Cases
