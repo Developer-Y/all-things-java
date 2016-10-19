@@ -6,9 +6,7 @@
   * [Java (Beginner) Programming Tutorials - thenewboston](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
   * [Google I/O 2008 - Effective Java Reloaded](https://www.youtube.com/watch?v=pi_I7oD_uGI)
   * [Effective Java - Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg)
-  * [Book Reading Club: "Effective Java" by Josh Bloch - Part 1](https://www.youtube.com/watch?v=EduWekviwRg)
-  * [Book Reading Club: "Effective Java" by Josh Bloch - Part 2](https://www.youtube.com/watch?v=4a7twg_Zvco)
-  * [Book Reading Club: "Effective Java" by Josh Bloch - Part 3](https://www.youtube.com/watch?v=jf1FyroqjoY)
+  * [Book Reading Club: "Effective Java" by Josh Bloch - Part 1](https://www.youtube.com/watch?v=EduWekviwRg) ([Part 2](https://www.youtube.com/watch?v=4a7twg_Zvco)) ([Part 3](https://www.youtube.com/watch?v=jf1FyroqjoY))
   * [About java.lang.String, why String is special in java - String tutorial](https://www.youtube.com/watch?v=6pLEwJP1Afk)
   * [Effective Java Reloaded](https://www.infoq.com/presentations/Effective-Java-techniques)
   * [Java Puzzlers: Scraping the Bottom of the Barrel](https://www.infoq.com/presentations/Java-Puzzlers)
@@ -78,12 +76,19 @@
   * [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
   * [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
   * [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
+  * [CS E-259: XML with Java, Java Servlet, and JSP - Harvard University](http://www.fas.harvard.edu/~cscie259/lectures/)
   * [REST-Ful API Design](https://www.youtube.com/watch?v=oG2rotiGr90)
   * [Designing a REST-ful API using Spring 3](https://www.youtube.com/watch?v=wylViAqNiRA)
+  * [SOAP: Service-Oriented Architecture and Programming, Pt. 1](https://www.youtube.com/watch?v=Bax3XNU-UEA)
+  * [SOAP: Service-Oriented Architecture and Programming, Pt. 2](https://www.youtube.com/watch?v=fb-MwesWT6o)
+  * [What is a Service Oriented Architecture?](https://www.youtube.com/watch?v=nRayJZmj2oY)
+  * [Webinar : Practical SOA for the Solution Architect](https://www.youtube.com/watch?v=1KXKppaOgtY)
+  * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
   
 * **OOAD/ Design Patterns**
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
   * [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+  * [OOSE: Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
   * [Design Patterns Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGTBBDSYP0gTnErhaTVVKI2)
   * [Core Software Design Principles](https://www.youtube.com/watch?v=XgoldEoK-Rw)
 
@@ -150,7 +155,6 @@
   * [Scala in Action](https://www.youtube.com/watch?v=xCmHKzYXoko)
 
 * **Others**
-  * [CS E-259: XML with Java, Java Servlet, and JSP - Harvard University](http://www.fas.harvard.edu/~cscie259/lectures/)
   * [Large-Scale Automation with Jenkins](https://www.youtube.com/watch?v=8GAAL7T_ozM)
   * [Groovy for Java Developers](https://www.youtube.com/watch?v=FkLZ7kDCIBk)
   * [Package your Java EE application using Docker and Kubernetes](https://www.youtube.com/watch?v=OEflMTJUV4c)
