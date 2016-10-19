@@ -148,6 +148,7 @@
   * [Serialization in Java](https://www.youtube.com/playlist?list=PLlrATfBNZ98cCfmH0xPebdVVMSYRQfyKi)
   * [Introduction to Java Profiling](https://www.infoq.com/presentations/java-profiling)
   * [Building and Tuning High Performance Java Platforms](https://www.infoq.com/presentations/jvm-tuning-2015)
+  * [Tuning Large Scale Java Platforms](https://www.youtube.com/watch?v=CJujGwjUQDo)
 
 
 * **Other JVM Languages**
@@ -164,6 +165,7 @@
   * [Ask the JDK Architects, Part 1](https://www.youtube.com/watch?v=vsPwuSRsv-k)
   * [Ask the JDK Architects, Part 2](https://www.youtube.com/watch?v=gskTI0H8dBc)
   * [Philly ETE 2014 #50 - Java: Past, Present, and Future - Brian Goetz](https://www.youtube.com/watch?v=Dq2WQuWVrgQ)
+  * [Advanced Topics in Programming Languages: Java Puzzlers,...](https://www.youtube.com/watch?v=wDN_EYUvUq0)
   * [GOTO 2015 • Move Deliberately and Don't Break Anything • Brian Goetz](https://www.youtube.com/watch?v=ibYrHlwCKB4)
 
 
