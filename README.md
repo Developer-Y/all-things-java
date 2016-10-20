@@ -96,17 +96,23 @@
   * [Design Patterns Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGTBBDSYP0gTnErhaTVVKI2)
   * [Core Software Design Principles](https://www.youtube.com/watch?v=XgoldEoK-Rw)
 
-* **Java Frameworks (Spring/Hibernate etc) & JDBC**
+* **Spring Framework**
+    * [Building Web Applications with Spring MVC - Kaushik Kothagal](https://www.youtube.com/playlist?list=PLnSATAFQN94BCL_rFWd0oOjrx8Hwj_91L)
   * [Spring by Mr.Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmpGjkPiaLZsVw6JYw18vMT)
   * [Spring Framework - JavaBrains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
   * [Spring Framework Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEfi91PCFQMawtBJrPpir7y)
   * [Securing Rest-ful Web Services with OAuth2](https://www.youtube.com/watch?v=8uBcpsIEz2I)
   * [Going Beyond Dependency Injection](https://www.youtube.com/watch?v=JfgP566BHW0)
+  * [Spring MVC tutorials](https://www.youtube.com/playlist?list=PLBgMUB7xGcO31B2gBmy1igpZn6LK78-CJ)
+  * [Getting Started with MongoDB and Java](https://www.youtube.com/watch?v=khLaOfy6BCE)
+  * [Spring MVC Framework (no audio)](https://www.youtube.com/playlist?list=PLnQBGpefeAlvPe_Z2Y_Z7tmuuK4WRNuos)
+  * [Spring MVC Tutorial - Spring and hibernate Real time project (video quality - low)](https://www.youtube.com/playlist?list=PL52MiTTKddZSnvgFHYgK7wmJXmT3szI80)
+  
+* **Hibernate/JDBC**
   * [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
   * [Hibernate by Mr. Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlbNZyVIwgX627xvB0EWnqJ)
   * [Hibernate Durga](https://www.youtube.com/playlist?list=PLSUUqqVVQOdi-cYZwOIM_NNAgknK60LTe)
   * [Hibernate Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGddZSIsq4d0nhZDMZlPY1X)
-  * [Getting Started with MongoDB and Java](https://www.youtube.com/watch?v=khLaOfy6BCE)
 
 * **Memory Management and GC**
   * [How to Write Memory-Efficient Java Code](https://www.youtube.com/watch?v=f2aNWtt0QRo)
@@ -181,6 +187,7 @@
   * [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
   * [Java Revisited](http://javarevisited.blogspot.in/)
   * [Jenkov Tutorials](http://tutorials.jenkov.com/)
+  * [Code View Video tutorials](https://www.youtube.com/channel/UCdlukvTGTdskK7bHuGhPrgA/featured)
   * http://www.mkyong.com/
   * http://www.vogella.com/tutorials/java.html
   
