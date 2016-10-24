@@ -209,6 +209,7 @@
   * [Scala in Action](https://www.youtube.com/watch?v=xCmHKzYXoko)
 
 * **Misc**
+  * [JNDI Tutorials](https://www.youtube.com/playlist?list=PLae9NyL7T55WSdTnws5kcYHDR3ELTyx62)
   * [Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
   * [Large-Scale Automation with Jenkins](https://www.youtube.com/watch?v=8GAAL7T_ozM)
   * [Groovy for Java Developers](https://www.youtube.com/watch?v=FkLZ7kDCIBk)
