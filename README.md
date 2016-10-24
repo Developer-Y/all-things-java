@@ -88,6 +88,19 @@
   * [What is a Service Oriented Architecture?](https://www.youtube.com/watch?v=nRayJZmj2oY)
   * [Webinar : Practical SOA for the Solution Architect](https://www.youtube.com/watch?v=1KXKppaOgtY)
   * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
+  * JPassion
+    * [Web services JAX-WS Basics (from JPassion.com)](https://www.youtube.com/watch?v=Oes0Msnkv4I)
+    * [Web services JAX-WS helloworld (from JPassion.com)](https://www.youtube.com/watch?v=qonHqRzzlJU)
+    * [Web services JAX-WS Handlers (from JPassion.com)](https://www.youtube.com/watch?v=Z05Y6kgTSEw)
+    * [Web services JAXB Basics (from JPassion.com)](https://www.youtube.com/watch?v=Dj13-B5Pz5E)
+    * [Web Services JAXB 2.0 (from JPassion.com)](https://www.youtube.com/watch?v=brJgc65MPu0)
+    * [Web services WSDL (from JPassion.com)](https://www.youtube.com/watch?v=GaGNkI6Kv-4)
+    * [Web services WSIT WS-Addressing (from JPassion.com)](https://www.youtube.com/watch?v=MQHsFLLIIF4)
+    * [XML Schema (from JPassion.com)](https://www.youtube.com/watch?v=yC02VY9hnzw)
+    * [XML Namespaces (from JPassion.com)](https://www.youtube.com/watch?v=gYKQZYSRxnk)
+    * [XML XPath (from JPassion.com)](https://www.youtube.com/watch?v=-lqhnXOkUqc)
+    * [REST JAX-RS Part 1 (from JPassion.com)](https://www.youtube.com/watch?v=_0kmqtWYvaY)
+    * [REST JAX-RS Part 2 (from JPassion.com)](https://www.youtube.com/watch?v=UVwJmxj-Msg)
   
 * **OOAD/ Design Patterns**
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
@@ -97,7 +110,8 @@
   * [Core Software Design Principles](https://www.youtube.com/watch?v=XgoldEoK-Rw)
 
 * **Spring Framework**
-    * [Building Web Applications with Spring MVC - Kaushik Kothagal](https://www.youtube.com/playlist?list=PLnSATAFQN94BCL_rFWd0oOjrx8Hwj_91L)
+  * [Building Web Applications with Spring MVC - Kaushik Kothagal](https://www.youtube.com/playlist?list=PLnSATAFQN94BCL_rFWd0oOjrx8Hwj_91L)
+  * [Spring Security](https://www.youtube.com/playlist?list=PLnSATAFQN94CG-JNVZBWcbFmmfmt_LobB)  
   * [Spring by Mr.Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmpGjkPiaLZsVw6JYw18vMT)
   * [Spring Framework - JavaBrains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
   * [Spring Framework Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEfi91PCFQMawtBJrPpir7y)
@@ -107,12 +121,33 @@
   * [Getting Started with MongoDB and Java](https://www.youtube.com/watch?v=khLaOfy6BCE)
   * [Spring MVC Framework (no audio)](https://www.youtube.com/playlist?list=PLnQBGpefeAlvPe_Z2Y_Z7tmuuK4WRNuos)
   * [Spring MVC Tutorial - Spring and hibernate Real time project (video quality - low)](https://www.youtube.com/playlist?list=PL52MiTTKddZSnvgFHYgK7wmJXmT3szI80)
+  * [Spring Framework Core Tutorial](https://www.youtube.com/watch?v=ikRyqSdgOOI)
+  * [Spring Framework Security Introduction](https://www.youtube.com/watch?v=78CShmaXiCo)
+  * [Spring Framework AOP Introduction - Video 1 Part A](https://www.youtube.com/watch?v=_GFzqbMuCoo)
+  * [Spring Framework AOP Introduction - Video 1 Part B](https://www.youtube.com/watch?v=34F0XaqIDLA)
+  * [SpringMVC Form Handling (Topic #9: Spring course from JPassion.com)](https://www.youtube.com/watch?v=SDMFEFWiJGE)
+  * [SpringMVC Basics Part 1 (Topic #7: Spring course from JPassion.com)](https://www.youtube.com/watch?v=KdW-moopuy0)
+  * [SpringMVC Basics Part 2 (Topic #8: Spring course from JPassion.com)](https://www.youtube.com/watch?v=nq58wQyeCxQ)
   
-* **Hibernate/JDBC**
+* **Hibernate/JPA/JDBC**
   * [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
   * [Hibernate by Mr. Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlbNZyVIwgX627xvB0EWnqJ)
   * [Hibernate Durga](https://www.youtube.com/playlist?list=PLSUUqqVVQOdi-cYZwOIM_NNAgknK60LTe)
   * [Hibernate Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGddZSIsq4d0nhZDMZlPY1X)
+  * [Hibernate Caching (from JPassion.com)](https://www.youtube.com/watch?v=-R5C3jhmgj4)
+  * [Java Persistence API 2.1](https://www.youtube.com/watch?v=MhgzNT7p7wA)
+  * [Java Persistence 2.1](https://www.youtube.com/watch?v=8vyyTtZ2Cwg)
+  * [The Evolution of Java Persistence](https://www.youtube.com/watch?v=Q48ztonO0L8)
+  * [Devnexus 2015 - Java Persistence API by Jason Porter](https://www.youtube.com/watch?v=YRMS0-9h0i8)
+  * [JPA Gotchas and Best Practices: Lessons from Overstock.com](https://www.youtube.com/watch?v=XGiKJzZWnCA)
+  * [JPA Best Practices Webinar](https://www.youtube.com/watch?v=f1VD3y2PWZs)
+  * [Java EE Programming - Lecture 7](https://www.youtube.com/watch?v=tprHH4QaIgo)
+  * [JPA Advanced (from JPassion.com)](https://www.youtube.com/watch?v=BRPNPaxmnP4)
+  * [Hibernate Step by Step (from JPassion.com)](https://www.youtube.com/watch?v=a-e5Jh583xI)
+  * Transaction Management
+    * [Introduction To Transaction Management](https://www.youtube.com/watch?v=HcjHJLEbtRs)
+    * [Java Transaction API 1.2](https://www.youtube.com/watch?v=rChkWy2NFyQ)
+    * [Hibernate Transaction (from JPassion.com)](https://www.youtube.com/watch?v=unI5_HaGCVU)
 
 * **Memory Management and GC**
   * [How to Write Memory-Efficient Java Code](https://www.youtube.com/watch?v=f2aNWtt0QRo)
@@ -165,7 +200,8 @@
   * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
   * [Scala in Action](https://www.youtube.com/watch?v=xCmHKzYXoko)
 
-* **Others**
+* **Misc**
+  * [Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
   * [Large-Scale Automation with Jenkins](https://www.youtube.com/watch?v=8GAAL7T_ozM)
   * [Groovy for Java Developers](https://www.youtube.com/watch?v=FkLZ7kDCIBk)
   * [Package your Java EE application using Docker and Kubernetes](https://www.youtube.com/watch?v=OEflMTJUV4c)
