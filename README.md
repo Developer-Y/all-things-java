@@ -109,6 +109,11 @@
   * [Design Patterns Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGTBBDSYP0gTnErhaTVVKI2)
   * [Core Software Design Principles](https://www.youtube.com/watch?v=XgoldEoK-Rw)
 
+* **Java EE (Servlets/JSP)**
+  * [JSP Tutorial - Java Server Pages Tutorial](https://www.youtube.com/playlist?list=PLEAQNNR8IlB5qfU7joeyIVRCRqD3nMsmV)
+  * [JSPs and Servlets - JavaBrains](https://www.youtube.com/playlist?list=PLE0F6C1917A427E96)
+  * [JAVA Servlet Tutorials](https://www.youtube.com/playlist?list=PL438874A4549EE5D2)
+
 * **Spring Framework**
   * [Building Web Applications with Spring MVC - Kaushik Kothagal](https://www.youtube.com/playlist?list=PLnSATAFQN94BCL_rFWd0oOjrx8Hwj_91L)
   * [Spring Security](https://www.youtube.com/playlist?list=PLnSATAFQN94CG-JNVZBWcbFmmfmt_LobB)  
@@ -131,6 +136,9 @@
   
 * **Hibernate/JPA/JDBC**
   * [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
+  * [JDBC Tutorial](https://www.youtube.com/playlist?list=PL-lbf_8bVpgyLJQUFQcvj_tK1p8anPT_y)
+  * [Java JDBC Tutorial](https://www.youtube.com/playlist?list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ)
+  * [Hibernate Tutorial](https://www.youtube.com/playlist?list=PLEAQNNR8IlB6QiKZP0_5dYoId-7YXOdBe)
   * [Hibernate by Mr. Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlbNZyVIwgX627xvB0EWnqJ)
   * [Hibernate Durga](https://www.youtube.com/playlist?list=PLSUUqqVVQOdi-cYZwOIM_NNAgknK60LTe)
   * [Hibernate Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGddZSIsq4d0nhZDMZlPY1X)
