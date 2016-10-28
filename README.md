@@ -215,6 +215,14 @@
   * [Building and Tuning High Performance Java Platforms](https://www.infoq.com/presentations/jvm-tuning-2015)
   * [Tuning Large Scale Java Platforms](https://www.youtube.com/watch?v=CJujGwjUQDo)
 
+* **SQL**
+  * [SQL tutorials for beginners/ Oracle Database tutorials](https://www.youtube.com/playlist?list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ)
+  * [SQL Tutorials - The Bad Tutorials](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
+  * [SQL Server tutorial for beginners](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
+  * [Basic SQL Training - Joey Blue](https://www.youtube.com/playlist?list=PLD20298E653A970F8)
+  * [SQL Server Queries](https://www.youtube.com/playlist?list=PL6EDEB03D20332309)
+  * [SQL Server Interview Questions and Answers](https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR)
+  * [SQL Server DBA Interview Questions and Answers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICSv38AYhS3doRmQoY_-e_Q)
 
 * **Other JVM Languages**
   * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
@@ -266,6 +274,8 @@
     * [Chapter 47 Java Message Service Concepts - Java EE Tutorial - Oracle](http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html)
     * [ActiveMQ Tutorial for beginners](https://examples.javacodegeeks.com/enterprise-java/jms/activemq-tutorial-beginners/)
     * [JMS With ActiveMQ](https://dzone.com/articles/jms-activemq)
+  * SQL
+    * [SQL Tutorial - W3Schools](http://www.w3schools.com/sql/)
   
 * **Books**
   * Head First Java, 2nd Edition
