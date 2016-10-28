@@ -87,6 +87,7 @@
   * [SOAP: Service-Oriented Architecture and Programming, Pt. 2](https://www.youtube.com/watch?v=fb-MwesWT6o)
   * [What is a Service Oriented Architecture?](https://www.youtube.com/watch?v=nRayJZmj2oY)
   * [Webinar : Practical SOA for the Solution Architect](https://www.youtube.com/watch?v=1KXKppaOgtY)
+  * [Spring WebServices](https://www.youtube.com/playlist?list=PLwIFo6ewnySXtuNQqWLcdnIXvDAlFPazQ)
   * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
   * JPassion
     * [Web services JAX-WS Basics (from JPassion.com)](https://www.youtube.com/watch?v=Oes0Msnkv4I)
@@ -126,6 +127,7 @@
   * [Getting Started with MongoDB and Java](https://www.youtube.com/watch?v=khLaOfy6BCE)
   * [Spring MVC Framework (no audio)](https://www.youtube.com/playlist?list=PLnQBGpefeAlvPe_Z2Y_Z7tmuuK4WRNuos)
   * [Spring MVC Tutorial - Spring and hibernate Real time project (video quality - low)](https://www.youtube.com/playlist?list=PL52MiTTKddZSnvgFHYgK7wmJXmT3szI80)
+  * [Spring MVC and WebFlow Training Course](https://www.youtube.com/playlist?list=PLwIFo6ewnySX3xi1geQQvexbwTne4pOiF)
   * [Spring Framework Core Tutorial](https://www.youtube.com/watch?v=ikRyqSdgOOI)
   * [Spring Framework Security Introduction](https://www.youtube.com/watch?v=78CShmaXiCo)
   * [Spring Framework AOP Introduction - Video 1 Part A](https://www.youtube.com/watch?v=_GFzqbMuCoo)
@@ -133,6 +135,7 @@
   * [SpringMVC Form Handling (Topic #9: Spring course from JPassion.com)](https://www.youtube.com/watch?v=SDMFEFWiJGE)
   * [SpringMVC Basics Part 1 (Topic #7: Spring course from JPassion.com)](https://www.youtube.com/watch?v=KdW-moopuy0)
   * [SpringMVC Basics Part 2 (Topic #8: Spring course from JPassion.com)](https://www.youtube.com/watch?v=nq58wQyeCxQ)
+  * [Spring Framework Training Course - Connection Pools](https://www.youtube.com/watch?v=mMp7yEfbDxM)
   
 * **Hibernate/JPA/JDBC**
   * [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
@@ -176,8 +179,17 @@
   * [CON5823 Moving to G1 GC](https://www.youtube.com/watch?v=3Xrd9iSWTbI)
   * [The Fundamentals of Garbage Collector Performance](https://www.youtube.com/watch?v=D6jqVS5JFpM)
   * [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
-  
+  * Memory Management (Virtual Pair tutorials)
+    * [Memory Fundamentals - part 1 of Java Memory Management](https://www.youtube.com/watch?v=ckYwv4_Qtmo)
+    * [Values and References - part 2 of Java Memory Management](https://www.youtube.com/watch?v=7IkpIQc8OCw)
+    * [Escaping References - part 3 of Java Memory Management](https://www.youtube.com/watch?v=nW48K2a6t7k)
+    * [Garbage Collection - part 4 of Java Memory Management](https://www.youtube.com/watch?v=CdAmS9H93q4)
+    * [Generational Garbage Collection - part 5 of Java Memory Management](https://www.youtube.com/watch?v=XrNgF2sbhGQ)
+    * [Tuning the Virtual Machine - part 6 of Java Memory Management](https://www.youtube.com/watch?v=jf7sObsLCJA)
+    * [Hunting for memory leaks - part 7 of Java Memory Management](https://www.youtube.com/watch?v=spDb2pUKs7Q)
+ 
 * **JMS**
+  * [JMS - Getting Started](https://www.youtube.com/watch?v=yRWhI1CGJEw)
   * [Asynchronous communication with JMS(Java Messaging Service) Part 1](https://www.youtube.com/watch?v=NAdrThcQkwQ)
   * [Spring Framework JMS Integartion Tutorial](https://www.youtube.com/watch?v=9WGSVnhlOHE)
   * [Introduction to JMS](https://www.youtube.com/watch?v=WH0ZaGwfmz4)
