@@ -243,6 +243,7 @@
   * [The Java Specialists' Newsletter](http://www.javaspecialists.eu/archive/archive.jsp)
   * [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
   * [Java Revisited](http://javarevisited.blogspot.in/)
+  * [The Java EE 6 Tutorial - Oracle](http://docs.oracle.com/javaee/6/tutorial/doc/docinfo.html) ([PDF](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf))
   * [Jenkov Tutorials](http://tutorials.jenkov.com/)
   * [Code View Video tutorials](https://www.youtube.com/channel/UCdlukvTGTdskK7bHuGhPrgA/featured)
   * http://www.mkyong.com/
@@ -258,6 +259,13 @@
   * [Getting Started with the G1 Garbage Collector](http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
   * [Internals of Java Class Loading](http://www.onjava.com/pub/a/onjava/2005/01/26/classloading.html)
   * [G1: One Garbage Collector To Rule Them All](https://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
+  * JMS
+    * [JMS (Java Message Service) Tutorial](http://howtodoinjava.com/jms/jms-java-message-service-tutorial/)
+    * [JMS Point-To-Point Message Example](http://howtodoinjava.com/jms/jms-point-to-point-message-example/)
+    * [JMS Publish/Subscribe Message Example](http://howtodoinjava.com/jms/jms-publish-subscribe-message-example/)
+    * [Chapter 47 Java Message Service Concepts - Java EE Tutorial - Oracle](http://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html)
+    * [ActiveMQ Tutorial for beginners](https://examples.javacodegeeks.com/enterprise-java/jms/activemq-tutorial-beginners/)
+    * [JMS With ActiveMQ](https://dzone.com/articles/jms-activemq)
   
 * **Books**
   * Head First Java, 2nd Edition
