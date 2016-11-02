@@ -235,6 +235,7 @@
 
 
 ### SQL
+  - [MySQL Database Tutorial - thenewboston](https://www.youtube.com/playlist?list=PL32BC9C878BA72085)
   - [SQL tutorials for beginners/ Oracle Database tutorials](https://www.youtube.com/playlist?list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ)
   - [SQL Tutorials - The Bad Tutorials](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
   - [SQL Server tutorial for beginners](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
