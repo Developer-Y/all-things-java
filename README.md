@@ -126,12 +126,12 @@
 
 
 ### Spring Framework
-  - [Building Web Applications with Spring MVC - Kaushik Kothagal](https://www.youtube.com/playlist?list=PLnSATAFQN94BCL_rFWd0oOjrx8Hwj_91L)
-  - [Spring Security](https://www.youtube.com/playlist?list=PLnSATAFQN94CG-JNVZBWcbFmmfmt_LobB)  
+  - [Spring Framework Essential](https://www.youtube.com/playlist?list=PL09NkvEHuNCcO-YGsFLSOK1lDyKYdu9iY)
   - [Spring by Mr.Naveen - Durga Software Solutions](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmpGjkPiaLZsVw6JYw18vMT)
   - [Spring Framework - JavaBrains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
   - [Spring Framework Tutorial Videos - edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEfi91PCFQMawtBJrPpir7y)
   - [Securing Rest-ful Web Services with OAuth2](https://www.youtube.com/watch?v=8uBcpsIEz2I)
+  - [Spring Framework](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8U0zgO7Kuu_2KtclkB1gSV)
   - [Going Beyond Dependency Injection](https://www.youtube.com/watch?v=JfgP566BHW0)
   - [Spring MVC tutorials](https://www.youtube.com/playlist?list=PLBgMUB7xGcO31B2gBmy1igpZn6LK78-CJ)
   - [Getting Started with MongoDB and Java](https://www.youtube.com/watch?v=khLaOfy6BCE)
@@ -146,6 +146,7 @@
   - [SpringMVC Basics Part 1 (Topic #7: Spring course from JPassion.com)](https://www.youtube.com/watch?v=KdW-moopuy0)
   - [SpringMVC Basics Part 2 (Topic #8: Spring course from JPassion.com)](https://www.youtube.com/watch?v=nq58wQyeCxQ)
   - [Spring Framework Training Course - Connection Pools](https://www.youtube.com/watch?v=mMp7yEfbDxM)
+  - [Spring Boot Fundamentals](https://www.youtube.com/playlist?list=PLGDwUiT1wr6-Fn3N2oqJpTdhGjFHnIIKY)
   
 
 ### Hibernate/JPA/JDBC
@@ -245,11 +246,20 @@
   - [SQL Server DBA Interview Questions and Answers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICSv38AYhS3doRmQoY_-e_Q)
 
 
+### JavaScript Frameworks (for full-stack developers)
+  - [Introduction to JavaScript for Developers - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
+  - [JavaScript Scopes and Closures In-depth - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
+  - [JavaScript Objects and Prototypes In-depth - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+  - [Thinking in Angular 1 - Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbWLgk2YspgXA_xORzD0Ax6)
+  - [Mastering AngularJS](https://www.youtube.com/playlist?list=PL09NkvEHuNCfPqEywjfiVyuTxlzh26nii)
+  - [JavaScript Design Pattern](https://www.youtube.com/playlist?list=PL09NkvEHuNCdCKHxTeFaedRE5FR7sgbJL)
+  - [Node.js MongoDB and Angular Web Development](https://www.youtube.com/playlist?list=PL09NkvEHuNCedmExOibzfnsfjqYQFrVWw)
 
-### Other JVM Languages
+
+### Other JVM Languages & Frameworks
+  - [Hadoop 2](https://www.youtube.com/playlist?list=PL09NkvEHuNCcvGnEdFAXDZakAY1pGvwr4)
   - [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
   - [Scala in Action](https://www.youtube.com/watch?v=xCmHKzYXoko)
-
 
 
 ### Misc
@@ -266,6 +276,7 @@
   - [Philly ETE 2014 #50 - Java: Past, Present, and Future - Brian Goetz](https://www.youtube.com/watch?v=Dq2WQuWVrgQ)
   - [Advanced Topics in Programming Languages: Java Puzzlers,...](https://www.youtube.com/watch?v=wDN_EYUvUq0)
   - [GOTO 2015 • Move Deliberately and Don't Break Anything • Brian Goetz](https://www.youtube.com/watch?v=ibYrHlwCKB4)
+  - [Docker in Practice](https://www.youtube.com/playlist?list=PL09NkvEHuNCcemZD5K-WTzvE1z6YQQduK)
 
 
 ---------------
