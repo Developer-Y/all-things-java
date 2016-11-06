@@ -147,7 +147,7 @@
   - [SpringMVC Basics Part 2 (Topic #8: Spring course from JPassion.com)](https://www.youtube.com/watch?v=nq58wQyeCxQ)
   - [Spring Framework Training Course - Connection Pools](https://www.youtube.com/watch?v=mMp7yEfbDxM)
   - [Spring Boot Fundamentals](https://www.youtube.com/playlist?list=PLGDwUiT1wr6-Fn3N2oqJpTdhGjFHnIIKY)
-  
+  - [Spring - CRUD/Internationalization/Security (no audio)](https://www.youtube.com/playlist?list=PLVHzRFfVxBsVjrwsu7XNMh0EkCofbQ-nE)
 
 ### Hibernate/JPA/JDBC
   - [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
