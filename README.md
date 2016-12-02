@@ -70,6 +70,7 @@
 
 ### Java 8
   - [JDK 8 Lambdas MOOC Course](https://www.youtube.com/playlist?list=PLMod1hYiIvSZL1xclvHcsV2dMiminf19x)
+  - [Java 8 Lambda Basics, Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
   - [Programming with Lambda Expressions in Java](https://www.youtube.com/watch?v=Gsfmfeb2XW8)
   - [Programming with Streams in Java 8](https://www.youtube.com/watch?v=rVfRDLIw_Zw)
   - [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
