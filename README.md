@@ -316,6 +316,7 @@
     - [JMS With ActiveMQ](https://dzone.com/articles/jms-activemq)
   - SQL
     - [SQL Tutorial - W3Schools](http://www.w3schools.com/sql/)
+    - [Learn SQL - Scaler Topics](https://www.scaler.com/topics/sql/)
   
 ---------------
 
